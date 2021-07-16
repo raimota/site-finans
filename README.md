@@ -4,4 +4,4 @@ Um site sobre um software de Gestão financeira, baseado no site https://www.org
 
 Feito com Bootstrap 4.
 
-Veja funcionando em  https://raimota.github.io/site-finans/
+Veja funcionando em  https://finans-seven.vercel.app/
